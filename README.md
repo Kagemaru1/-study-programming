@@ -1,2 +1,3 @@
-#  study-programming
- 13.02.2024 Start of learning!
+# Study-Programming
+07.01.2024
+Today i decided to learn programming!!!
