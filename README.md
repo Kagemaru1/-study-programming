@@ -7,3 +7,5 @@ Day 1
 Basics of HTML and JS.
 
 day 2
+2:00 hours Study time!
+Basics of JS.
