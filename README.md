@@ -16,3 +16,8 @@ Day 3
 15.02.2024
 1:00 hours Study time!
 Basics of JS.
+
+Day 4
+16.02.2024
+1:00 hours Study time!
+Basics of JS.
